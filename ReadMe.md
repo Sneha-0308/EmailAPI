@@ -2,6 +2,6 @@
 
 <ul>
 <li>
-<a href="">Sending text</a> </li>
+<a href="https://github.com/Sneha-0308/EmailAPI/blob/master/src/main/java/org/example/Text.java">Sending text</a> </li>
 <br>
-<li><a href="" >Sending Attachment</a> </li></ul>
+<li><a href="https://github.com/Sneha-0308/EmailAPI/blob/master/src/main/java/org/example/Attachment.java" >Sending Attachment</a> </li></ul>
