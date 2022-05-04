@@ -5,7 +5,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
-public class App {
+public class Text {
     public static void main(String[] args) {
         System.out.println("preparing to send message.....");
         String message="Hello Dear, this is message for security";
@@ -25,7 +25,7 @@ public class App {
         Session session=Session.getInstance(properties, new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication(){
-                return new PasswordAuthentication("mathadawar01@gmail.com","******");
+                return new PasswordAuthentication("mathadawar01@gmail.com","*****");
             }
         });
         session.setDebug(true);
